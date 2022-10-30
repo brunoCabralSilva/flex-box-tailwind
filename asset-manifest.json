@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flexbox-tailwind/static/css/main.f2440f68.css",
+    "main.js": "/flexbox-tailwind/static/js/main.79e32dfe.js",
+    "index.html": "/flexbox-tailwind/index.html",
+    "main.f2440f68.css.map": "/flexbox-tailwind/static/css/main.f2440f68.css.map",
+    "main.79e32dfe.js.map": "/flexbox-tailwind/static/js/main.79e32dfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2440f68.css",
+    "static/js/main.79e32dfe.js"
+  ]
+}
